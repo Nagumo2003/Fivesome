@@ -1,4 +1,4 @@
-# Nightfall Tactics Tekken Style V11 – Arcade Polish Full Pack
+# NIGHTFALL TACTICS VERSION 12 SEMI-POLISHED
 
 This build is an actual upgraded V11 pack based on the V10 prototype.
 
